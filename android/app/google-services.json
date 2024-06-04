@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "315615238993",
+    "project_id": "shoelyapp",
+    "storage_bucket": "shoelyapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:315615238993:android:521e62feef42856bf0d170",
+        "android_client_info": {
+          "package_name": "com.example.prime_template"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk6tvkOBcZxFVCenHT_G4CnQMaSrmRQVc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
